@@ -12,7 +12,7 @@ function App() {
               Noteworthy technology acquisitions 2021
             </h5>
             <p className="font-normal text-gray-700 dark:text-gray-400">
-              Saver
+              Saver jrjr
             </p>
           </Card>
         </div>
